@@ -1,0 +1,5 @@
+2026-09-29T07:58:40Z INFO  boot software_version=4.2.1 build=7731
+2026-09-29T08:30:00Z INFO  run_start run_id=R-20260929-101 assay=ASSAY-WGS-001 assay_version=3
+2026-09-29T14:12:09Z INFO  run_end run_id=R-20260929-101 status=ok
+2026-09-29T15:00:00Z INFO  run_start run_id=R-20260929-102 assay=ASSAY-RNA-014 assay_version=2
+2026-09-29T20:44:31Z INFO  run_end run_id=R-20260929-102 status=ok

@@ -1,0 +1,8 @@
+# Append-only event log: repairs, part swaps, moves, calibrations.
+- date: 2026-05-11
+  type: commissioning
+  summary: Installed and accepted.
+- date: 2026-10-01
+  type: repair
+  summary: Repeated flowcell temperature fault E1042; instrument out of service, waiting for parts. No resolution yet.
+  signature: E1042

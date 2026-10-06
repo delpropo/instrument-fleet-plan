@@ -1,0 +1,14 @@
+# Append-only event log: repairs, part swaps, moves, calibrations.
+# Software changes are tracked in instrument.yaml (declared) and by the log scan (observed).
+- date: 2025-11-20
+  type: commissioning
+  summary: Installed and accepted.
+- date: 2026-03-02
+  type: move
+  summary: Moved from room B210 to B214.
+- date: 2026-09-28
+  type: repair
+  summary: Flowcell stage temperature fault E1042; replaced Peltier module.
+  signature: E1042
+  resolution_ref: resolutions/2026-09-28-E1042-flowcell-temp.md
+  hardware_change: {module: flowcell-stage, old_serial: FC-88201, new_serial: FC-88213}

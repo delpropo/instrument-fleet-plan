@@ -1,0 +1,35 @@
+# Per-serial facts only. Type-level facts (baseline version, connection procedure,
+# retention policy, manual-to-version map) belong in the type pack: types/FakeSeq-9000/type.yaml
+schema_version: 1
+key: FakeSeq-9000/FS9K-000502   # type + serial; never changes
+type: FakeSeq-9000
+serial: FS9K-000502
+nickname: scrooge                 # editable alias, not an identifier
+status: active                  # active | repair | retired
+owner_team: oncology-assays
+
+location:
+  site: Building 3
+  room: C101
+  bench: 2
+  moved_on: 2026-04-27
+
+connection:
+  hostname: fs9k-000502.lab.example.internal
+  port: 22
+  protocol: sftp
+  log_path: /var/log/fakeseq/
+  username: logcollector
+  credential_ref: vault://instruments/FakeSeq-9000/FS9K-000502   # reference only; never store secrets here
+
+software:
+  declared_version: 4.1.9
+  declared_on: 2024-09-03
+  history:
+    - {version: 4.1.9, installed_on: 2024-09-03, source: initial install}
+
+hardware:
+  commissioned_on: 2024-09-03
+  modules:
+    - {name: flowcell-stage, part_no: FS-FC-100, serial: FC-77120}
+    - {name: optics-head, part_no: FS-OPT-200, serial: OPT-28810}

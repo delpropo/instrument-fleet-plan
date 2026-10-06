@@ -1,0 +1,16 @@
+{
+  "observed_version": {
+    "version": "4.2.2",
+    "file": "fakeseq_20260930.log",
+    "line": 1,
+    "timestamp": "2026-09-30T07:45:02Z"
+  },
+  "assays_seen": [
+    "ASSAY-WGS-001@3"
+  ],
+  "run_count": 1,
+  "signatures": {},
+  "instrument_key": "FakeSeq-9000/FS9K-000455",
+  "declared_version": "4.2.1",
+  "drift": true
+}

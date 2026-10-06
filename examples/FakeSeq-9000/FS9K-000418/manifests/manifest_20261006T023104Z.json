@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "instrument_key": "FakeSeq-9000/FS9K-000418",
+  "created_utc": "2026-10-06T02:31:04Z",
+  "files": [
+    {
+      "name": "fakeseq_20260929.log",
+      "size_bytes": 390,
+      "sha256": "f2641dfe649060438a933edfdd503afbc1505ffabfbd58fbde6cfa40bd07b206"
+    }
+  ]
+}

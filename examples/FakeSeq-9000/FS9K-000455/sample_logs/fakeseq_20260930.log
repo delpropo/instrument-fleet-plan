@@ -1,0 +1,3 @@
+2026-09-30T07:45:02Z INFO  boot software_version=4.2.2 build=7802
+2026-09-30T08:20:00Z INFO  run_start run_id=R-20260930-201 assay=ASSAY-WGS-001 assay_version=3
+2026-09-30T13:55:12Z INFO  run_end run_id=R-20260930-201 status=ok

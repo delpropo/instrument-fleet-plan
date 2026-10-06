@@ -1,0 +1,7 @@
+2026-09-28T08:01:12Z INFO  boot software_version=4.2.1 build=7731
+2026-09-28T09:15:03Z INFO  run_start run_id=R-20260928-001 assay=ASSAY-WGS-001 assay_version=3
+2026-09-28T10:30:44Z INFO  cycle_complete run_id=R-20260928-001 cycle=150
+2026-09-28T11:42:51Z ERROR E1042 flowcell temperature out of range (24.9C > 22.0C) run_id=R-20260928-001
+2026-09-28T11:42:52Z WARN  run_paused run_id=R-20260928-001
+2026-09-28T13:05:10Z INFO  run_start run_id=R-20260928-002 assay=ASSAY-WGS-001 assay_version=3
+2026-09-28T17:40:00Z INFO  run_end run_id=R-20260928-002 status=ok

@@ -1,0 +1,4 @@
+2026-09-15T07:50:10Z INFO  boot software_version=4.1.9 build=6120
+2026-09-15T08:40:00Z INFO  run_start run_id=R-20260915-301 assay=ASSAY-ONC-007 assay_version=1
+2026-09-15T10:03:27Z ERROR E2007 optics autofocus failed after 3 retries run_id=R-20260915-301
+2026-09-15T10:03:28Z WARN  run_aborted run_id=R-20260915-301

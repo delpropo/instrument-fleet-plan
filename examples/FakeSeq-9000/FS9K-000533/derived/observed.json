@@ -1,0 +1,29 @@
+{
+  "observed_version": {
+    "version": "4.2.1",
+    "file": "fakeseq_20261001.log",
+    "line": 1,
+    "timestamp": "2026-10-01T07:55:00Z"
+  },
+  "assays_seen": [
+    "ASSAY-ONC-007@1"
+  ],
+  "run_count": 2,
+  "signatures": {
+    "E1042": [
+      {
+        "file": "fakeseq_20261001.log",
+        "line": 3,
+        "timestamp": "2026-10-01T09:48:19Z"
+      },
+      {
+        "file": "fakeseq_20261001.log",
+        "line": 6,
+        "timestamp": "2026-10-01T11:12:45Z"
+      }
+    ]
+  },
+  "instrument_key": "FakeSeq-9000/FS9K-000533",
+  "declared_version": "4.2.1",
+  "drift": false
+}

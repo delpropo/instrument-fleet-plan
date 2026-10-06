@@ -1,0 +1,7 @@
+2026-10-01T07:55:00Z INFO  boot software_version=4.2.1 build=7731
+2026-10-01T08:30:00Z INFO  run_start run_id=R-20261001-401 assay=ASSAY-ONC-007 assay_version=1
+2026-10-01T09:48:19Z ERROR E1042 flowcell temperature out of range (25.3C > 22.0C) run_id=R-20261001-401
+2026-10-01T09:48:20Z WARN  run_aborted run_id=R-20261001-401
+2026-10-01T10:30:00Z INFO  run_start run_id=R-20261001-402 assay=ASSAY-ONC-007 assay_version=1
+2026-10-01T11:12:45Z ERROR E1042 flowcell temperature out of range (25.8C > 22.0C) run_id=R-20261001-402
+2026-10-01T11:12:46Z WARN  run_aborted run_id=R-20261001-402

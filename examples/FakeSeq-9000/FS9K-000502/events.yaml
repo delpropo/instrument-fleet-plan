@@ -1,0 +1,12 @@
+# Append-only event log: repairs, part swaps, moves, calibrations.
+- date: 2024-09-03
+  type: commissioning
+  summary: Installed and accepted.
+- date: 2026-04-27
+  type: move
+  summary: Moved from Building 2 B120 to Building 3 C101.
+- date: 2026-09-15
+  type: calibration
+  summary: Optics head realigned after error E2007; see resolution.
+  signature: E2007
+  resolution_ref: resolutions/2026-09-15-E2007-optics-focus.md
