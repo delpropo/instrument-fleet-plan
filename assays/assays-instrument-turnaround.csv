@@ -1,0 +1,403 @@
+assay,category,turnaround_original,turnaround_min_days,turnaround_max_days,min_sample_size,in_house_guess,in_house_basis,instrument_type,other_instruments_mentioned,instrument_basis,instrument_confidence
+10-Hydroxy-2-decenoic acid (10-HDA),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+"1,3-Butanediol (Butylene Glycol)",Preservatives and Additives,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+"2,4-D (2,4-Dichlorophenoxyacetic Acid)",Contaminants,11-13 days,11,13,450,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,inferred from assay name,medium
+"3’,3’-Diindolylmethane (DIM)","Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+5-Hydroxytryptophan (5-HTP),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+"7,8-Dihydroxyflavone","Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Acetic Acid,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Acid Value,Stability,3-7 days,3,7,25,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",Titration (incl. Karl Fischer),,inferred from text,medium
+Acrylamide,Contaminants,5-7 days,5,7,23,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+"Aflatoxins (B1, B2, G1, G2) + Ochratoxin A",Contaminants,7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+AFU Enumeration,"Phytochemical, Vitamin, and Actives",3 days,3,3,5,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",Flow cytometer,,stated in text,high
+Agmatine Sulfate,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+AKBA (3-O-Acetyl-11-Keto-B-Boswellic Acid),,5-7 days,5,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Alliin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Allulose (D-Psicose),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Almond Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Aloin,"Phytochemical, Vitamin, and Actives",9-11 days,9,11,5,likely outsourced,"max turnaround 11 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Alpha-GPC (Alpha-Glycerylphosphorylcholine),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Aluminum,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Amazon Sexual Enhancement Panel,Contaminants,7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Amazon Sports Supplement Panel,Preservatives and Additives,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Amazon Weight Loss Panel,Contaminants,7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Amino Acid Profile,"Phytochemical, Vitamin, and Actives",5-7 days,5,7,50,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Anaerobic Viable Count,Microbial,4 days,4,4,25,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from text,medium
+Anthocyanidins (Blueberry Extract),"Phytochemical, Vitamin, and Actives",11-13 days,11,13,9,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Antimony,Elemental,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Apigenin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Appearance,Stability,3 days,3,3,,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",Visual / sensory inspection,,inferred from assay name,high
+Artificial sweeteners (standard panel),Preservatives and Additives,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Ash,Elemental,3 days,3,3,10,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from assay name,high
+Ashwagandha Total Withanolides (Quantitative),"Phytochemical, Vitamin, and Actives",7-9 days,7,9,10,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from assay name,high
+Ashwagandha (Withania somnifera) Qualitative - absence/presence,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,5,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Astaxanthin (Free and Esters),"Phytochemical, Vitamin, and Actives",12-16 days,12,16,20,likely outsourced,"max turnaround 16 days (in house <= 7, outsourced >= 11)",HPLC,,inferred from assay name,medium
+Average piece per container,Stability,3 days,3,3,,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",Analytical balance,,inferred from assay name,high
+Average Piece Weight,Stability,3 days,3,3,,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",Analytical balance,,inferred from assay name,high
+Bacillus Cereus,Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Bacillus Coagulans,Microbial,4 days,4,4,20,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+"Bacillus subtilis Spore Count — DE111 (DE111 Enumeration, 3.80.308)","Phytochemical, Vitamin, and Actives",5-7 days,5,7,25,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Bacillus subtilis Spore Count — HU58 (EN15784:2009),"Phytochemical, Vitamin, and Actives",5-7 days,5,7,25,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Bacopa monnieri ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Bacosides (HPLC),"Phytochemical, Vitamin, and Actives",11-13 business days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,UV-Vis spectrophotometer,stated in text,high
+Bacteria Identification,Microbial,8-10 days,8,10,50,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Barium,Elemental,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+"BCAA Profile (Leucine, Isoleucine, Valine)","Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Berberine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Berberine HCl,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Beryllium,Elemental,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Beta-Alanine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Beta Glucan by the MOA (HPLC),"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Beta Glucan (HPLC),"Phytochemical, Vitamin, and Actives",8-10 days,8,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Beta Glucan (Megazyme),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,25,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Betaine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Betaine Nitrate (by Titration),"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",Titration (incl. Karl Fischer),,inferred from text,medium
+Bile-Tolerant Gram-Negative Bacteria (BTGN),Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Black Pepper,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,9,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Boron,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Boswellia,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Bovine IGF-1,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",LC-MS/MS,ELISA,stated in text,medium
+Bovine IGF-2,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Bovine Serum Albumin (BSA),Allergen,8-10 days,8,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+BPA / BPS / BPF,Contaminants,5-7 days,5,7,20,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+"BPC 157, Peptide","Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+Brazil Nut Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Brix,Stability,5 days,5,5,,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",Refractometer,,inferred from assay name,high
+Bromelain Activity,"Phytochemical, Vitamin, and Actives",8-10 days,8,10,30,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Bromelain (GDU) (USP),"Phytochemical, Vitamin, and Actives",8-10 days,8,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,inferred from assay name,medium
+Butylated Hydroxytoluene (BHT),Preservatives and Additives,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Butyric Acid (Butyrate Acid),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Caffeine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Calcium,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Calcium HMB (CaHMB),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Candida,Microbial,6 days,6,6,10,likely in house,"max turnaround 6 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Caprylic Acid,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Carnitine (L-Carnitine),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Carvacrol,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Casein,Allergen,11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",ELISA,,inferred from assay name,medium
+Cashew Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Catechin Panel (EGCG),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Celery Allergen,Allergen,2 days,2,2,100,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Chestnut Allergen,Allergen,2 days,2,2,100,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Chlorella ID by HPTLC,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Chloride,Elemental,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",Titration (incl. Karl Fischer),,inferred from text,medium
+"Chlorogenic acids, Total Chlorogenic Acids (Total Caffeoylquinic acids)","Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Chlorophyll,"Phytochemical, Vitamin, and Actives",11-13 business days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Cholesterol,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,25,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",GC-FID,,stated in text,high
+Choline,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Chromium,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Citicoline (CDP-Choline),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Citric Acid,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Clostridium Perfringes,Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Cocoa Flavonols,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Coconut Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Coliforms,Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Color Match,Stability,3 days,3,3,,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",Visual / sensory inspection,,inferred from assay name,high
+Conjugated Linoleic Acid,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Container Closure,Stability,3 days,3,3,,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",Visual / sensory inspection,,inferred from assay name,high
+Copper,Elemental,5-7 days,5,7,6,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+CoQ10,"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Cordycepin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Cordyceps Mushroom (Cordyceps sinensis) ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Corn (Botanical ID),Allergen,2 days,2,2,100,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Coumarin,"Phytochemical, Vitamin, and Actives",7-9 days,7,9,10,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Cranberry ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Creatine,"Phytochemical, Vitamin, and Actives",5 days,5,5,10,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Creatine (Assay Only),,5 days,5,5,10,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Crocin,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,UV-Vis spectrophotometer,stated in text,high
+Crocins,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,6,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,UV-Vis spectrophotometer,stated in text,high
+Cronobacter,Microbial,5 days,5,5,50,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Crude Fiber,"Phytochemical, Vitamin, and Actives",10 days,10,10,50,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from assay name,high
+Curcumin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Curcuminoids,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Cyanide,Contaminants,7-9 days,7,9,10,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,inferred from assay name,low
+Dehydroepiandrosterone (DHEA),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Dietary Fiber AOAC 2009.01 (CODEX Definition – Total only),"Phytochemical, Vitamin, and Actives",10-15 business days,10,15,100,likely outsourced,"max turnaround 15 days (in house <= 7, outsourced >= 11)",HPLC,Ion chromatography,stated in text,medium
+Dietary Fiber (resistant)- AOAC 2011.25,"Phytochemical, Vitamin, and Actives",10-15 days,10,15,100,likely outsourced,"max turnaround 15 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from assay name,high
+Dietary Fiber (Resistant FOS),"Phytochemical, Vitamin, and Actives",10-15 days,10,15,100,likely outsourced,"max turnaround 15 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from assay name,high
+Dietary Fiber (Soluble + Insoluble),"Phytochemical, Vitamin, and Actives",10 days,10,10,50,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from assay name,high
+Diethylene Glycol (DEG),Contaminants,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Dihydroberberine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Dihydromyricetin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Disintegration,Stability,4 Days,4,4,20,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Disintegration tester,,inferred from assay name,medium
+E. Coli,Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Egg Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Ellagic Acid,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Enterobacteriaceae,Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Erythritol,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Eurycomanone,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Eurypeptides,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,7,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Fat Content,,5 days,5,5,20,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from text,medium
+Fatty Acid Profile,"Phytochemical, Vitamin, and Actives",5-7 days,5,7,50,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",GC-FID,,stated in text,high
+Fatty Acid Profile (As Ethyl Esters),"Phytochemical, Vitamin, and Actives",5-7 days,5,7,50,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",GC-FID,,stated in text,high
+Fenugreek (Trigonella foenum-graecum),Preservatives and Additives,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Fish Allergen,Allergen,2 days,2,2,100,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Fluoride,Elemental,11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",Ion-selective electrode,,inferred from assay name,medium
+Foreign Matter,Stability,5 days,5,5,25,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",Visual / sensory inspection,,inferred from assay name,high
+Formaldehyde,Contaminants,7-9 days,7,9,10,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)",GC-MS,,stated in text,high
+Free Fatty Acid,,7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",Titration (incl. Karl Fischer),,inferred from assay name,medium
+Fructans,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,20,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Gamma-Aminobutyric acid (GABA),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Gingerol and Shogaol Panel,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Gingerol Panel,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Ginger Root ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Ginsenoside Panel (8),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+Ginsenoside Total Panel,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Glucosamine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Glutathione (reduced),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Gluten Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,,stated in text,high
+Glycerol (glycerin),Preservatives and Additives,7-10 days,7,10,4,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Glyphosate & AMPA,Contaminants,5-7 days,5,7,20,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Grape seed (Vitis vinifera),"Phytochemical, Vitamin, and Actives",11-13 days,11,13,5,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Green tea (Camellia sinensis),"Phytochemical, Vitamin, and Actives",8-10 days,8,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Hardness,Contaminants,10-12 days,10,12,250,likely outsourced,"max turnaround 12 days (in house <= 7, outsourced >= 11)",ICP-OES,,inferred from assay name,medium
+Hazelnut Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Headspace O2 + CO2,Stability,7-10 days,7,10,,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",Headspace gas analyzer,,inferred from assay name,high
+Heavy Metals,Contaminants,3 days,3,3,10,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Hesperidin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Huperzine A,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Hyaluronic acid (sodium hyaluronate),"Phytochemical, Vitamin, and Actives",7-9 days,7,9,10,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)",HPLC,,inferred from assay name,medium
+Hydroxyproline (Collagen Conversion),"Phytochemical, Vitamin, and Actives",5-7 days,5,7,100,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+IgA,"Phytochemical, Vitamin, and Actives",9-11 days,9,11,10,likely outsourced,"max turnaround 11 days (in house <= 7, outsourced >= 11)",ELISA,,stated in text,high
+IgG,"Phytochemical, Vitamin, and Actives",7-9 days,7,9,10,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+IgG (ELISA Method),Allergen,14-17 days,14,17,10,likely outsourced,"max turnaround 17 days (in house <= 7, outsourced >= 11)",ELISA,,stated in text,high
+"IgG, IgA, IgM, β-lactoglobulin, α-lactalbumin, Lactoferrin, and Serum Albumin","Phytochemical, Vitamin, and Actives",11-18 days,11,18,50,likely outsourced,"max turnaround 18 days (in house <= 7, outsourced >= 11)",HPLC,,inferred from assay name,medium
+IgM,"Phytochemical, Vitamin, and Actives",9-11 days,9,11,10,likely outsourced,"max turnaround 11 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Inorganic Arsenic,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Inositol,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Iodine,Elemental,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-OES,,inferred from assay name,medium
+Irish Sea Moss ID by HPTLC,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Iron,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Isothiocyanates,"Phytochemical, Vitamin, and Actives",7-9 days,7,9,10,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Lactase Enzyme Activity (ALU),"Phytochemical, Vitamin, and Actives",8-10 days,8,10,30,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,inferred from assay name,medium
+Lactic Acid Bacteria,Microbial,4 days,4,4,25,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Lactoferrin (Bioassay),"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Lactoperoxidase (LPO),"Phytochemical, Vitamin, and Actives",8-10 days,8,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Lactose,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Lactospore,Microbial,10-12 days,10,12,30,likely outsourced,"max turnaround 12 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+L-Arginine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Arginine Alpha Ketoglutarate,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Carnitine L-Tartrate,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Citrulline,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+L-Citrulline Malate,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Ergothioneine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+L-Glutamine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Glutathione,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+L-Glycine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+L-Histidine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Lion's Mane ID (Hericium Erinaceus) ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+L-Isoleucine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Listeria Monocytogenes,Microbial,4 days,4,4,25,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Listeria Species,Microbial,4 days,4,4,25,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+L-Leucine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Lysine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Methionine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Low-level Creatinine and Dicyandiamide,,5 days,5,5,10,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,inferred from assay name,medium
+L-phenylalanine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+L-Proline,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Theanine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+L-Threonine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Tryptophan,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+L-Tyrosine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Lupin Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Lutein,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,UV-Vis spectrophotometer,stated in text,high
+L-Valine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Lycopene,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Macadamia Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Maca Root ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Magnesium,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+"Magnesium Blend (Magnesium Glycinate, Oxide, and Citrate)",Elemental,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Magnesium (by Titration),Elemental,11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",Titration (incl. Karl Fischer),,inferred from text,medium
+Malic Acid,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Maltodextrin,Preservatives and Additives,7-9 days,7,9,10,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Manganese,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Melamine,Contaminants,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Melatonin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Melting Point,Stability,11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",Melting point apparatus,,inferred from assay name,high
+Methylliberine (Dynamine),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Methylsulfonylmethane (MSM),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+Methyl Sulfonyl Methane (MSM),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+"Microcystins (LR, RR, YR)",Contaminants,5-7 days,5,7,50,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Micro Panel,Microbial,5 days,5,5,75,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Microplastics (Drinking Water),Contaminants,14 days,14,14,100,likely outsourced,"max turnaround 14 days (in house <= 7, outsourced >= 11)",FTIR,,stated in text,high
+Microplastics (Liquid & non-drinking water),Contaminants,14 days,14,14,100,likely outsourced,"max turnaround 14 days (in house <= 7, outsourced >= 11)",FTIR,,stated in text,high
+Microplastics (Solid),Contaminants,14 days,14,14,100,likely outsourced,"max turnaround 14 days (in house <= 7, outsourced >= 11)",FTIR,,stated in text,high
+Milk Thistle Silymarin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Minerals,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Moisture Analysis,Stability,5 days,5,5,10,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from assay name,high
+Moisture (Karl Fisher),,7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",Titration (incl. Karl Fischer),,stated in text,high
+Mold Identification (3 types),Microbial,6-8 days,6,8,10,uncertain,"max turnaround 8 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Molybdenum,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Mustard Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Mycotoxins,Contaminants,5-7 days,5,7,25,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+N-Acetylcysteine (N-Acetyl-L-Cysteine),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+N-Acetyl-L-Carnitine (Acetyl-L-Carnitine),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+N-Acetyl-L-Tyrosine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Naringin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Nattokinase FU - Industry Method,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,30,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,inferred from assay name,medium
+Nicotinamide Adenine Dinucleotide (NAD),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Nicotinamide Riboside,"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Nicotine,"Phytochemical, Vitamin, and Actives",5 Days,5,5,5,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Nitrate,Contaminants,7-8 days,7,8,250,uncertain,"max turnaround 8 days (in house <= 7, outsourced >= 11)",Ion chromatography,,inferred from assay name,medium
+Nitrate – Beet Juice/Powders,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",Ion chromatography,,stated in text,high
+Nitrite,Contaminants,7-8 days,7,8,10,uncertain,"max turnaround 8 days (in house <= 7, outsourced >= 11)",Ion chromatography,,inferred from assay name,medium
+NMN (Nicotinamide mononucleotide),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Non-GMO Testing,Allergen,2-3 days,2,3,300,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Nutrition Facts Panel,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,450,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Odor,Contaminants,11-13 days,11,13,250,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",Visual / sensory inspection,,inferred from assay name,high
+Organoleptics,Stability,5 days,5,5,25,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",Visual / sensory inspection,,inferred from assay name,high
+PABA (4-Aminobenzoic Acid),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Palmitoylethanolamide (PEA) / Palmitic Acid Monoethanolamide,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Panax Ginseng Root ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+p-Anisidine Value,Stability,5-7 days,5,7,25,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Parabens,Contaminants,11-13 days,11,13,50,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Particle Size by Sieve (single mesh),Stability,7-10 days,7,10,50,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",Sieve shaker,,inferred from assay name,high
+Particle Size Test,Stability,8-10 days,8,10,20,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",Particle size analyzer,,inferred from assay name,high
+Passionflower (Passiflora incarnata),"Phytochemical, Vitamin, and Actives",10-12 days,10,12,10,likely outsourced,"max turnaround 12 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+PDCAAS,"Phytochemical, Vitamin, and Actives",15 days,15,15,80,likely outsourced,"max turnaround 15 days (in house <= 7, outsourced >= 11)",Combustion nitrogen analyzer,,inferred from assay name,medium
+Peanut Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Peroxide Value,Stability,5-7 days,5,7,25,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Pesticides,Contaminants,5-7 days,5,7,50,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,GC-MS,stated in text,medium
+Pesticides - FDA Import / Export,Contaminants,7 days,7,7,200,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,GC-MS,stated in text,medium
+Pesticides - USP 561,Contaminants,7-10 days,7,10,200,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,GC-MS,stated in text,medium
+PFAS,Contaminants,5-7 days,5,7,50,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+pH,Stability,3 days,3,3,5,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",pH meter,,inferred from assay name,high
+Phosphatidylcholine,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Phosphatidylserine,"Phytochemical, Vitamin, and Actives",8-10 days,8,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Phospholipids,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+Phosphorus,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Phthalates,Contaminants,5-7 days,5,7,18,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",GC-MS,,stated in text,high
+Pine Nut Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Piperine (Bioperine),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Pistachio Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Polysaccharides (UV),"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Potassium,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Pregnenolone,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+"Preservative panel (benzoate, sorbate)",Preservatives and Additives,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Proanthocyanidins,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,20,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Protein,"Phytochemical, Vitamin, and Actives",3-5 days,3,5,10,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",Combustion nitrogen analyzer,,inferred from assay name,medium
+Protein (Kjeldahl),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,20,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Protein on Dry Basis,"Phytochemical, Vitamin, and Actives",3-5 days,3,5,20,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",Combustion nitrogen analyzer,,inferred from assay name,medium
+Pseudomonas aeruginosa,Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Pterostilbene (Trans-Pterostilbene),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Pyrroloquinoline Quinone (PQQ),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Quercetin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Rapid Micro Panel,Microbial,4 days,4,4,75,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Rapid Yeast & Mold,Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Reishi Mushroom (Ganoderma lucidum) ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Residual Solvent Panel,Contaminants,7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",GC-MS,,stated in text,high
+"Residual Solvents Panel USP 467 (Class I, II, III)",Contaminants,11-13 days,11,13,30,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",GC-MS,GC-FID,stated in text,medium
+Resveratrol,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Rhodiola rosea ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Rhubarb (Rheum palmatum) ID,"Phytochemical, Vitamin, and Actives",10-12 days,10,12,10,likely outsourced,"max turnaround 12 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+R-Lipoic Acid (Alpha-Lipoic Acid),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Rosavin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Rosmarinic Acid,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Rupture,Stability,4 Days,4,4,,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Disintegration tester,,inferred from assay name,medium
+Rutin (EubioQuercetin),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+S-Adenosyl L-Methionine (SAM-e),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Safranal (Saffron Extract),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Salidroside,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Salmonella,Microbial,4 days,4,4,25,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Selenium,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Sesame Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Shellfish/Crustacean/Mollusk Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Shiga-toxin producing E. Coli,Microbial,3 days,3,3,25,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Shigella species screen,Microbial,4 days,4,4,50,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Shilajit ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Silicon,Elemental,7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-OES,,stated in text,high
+Silicon Dioxide,Elemental,7-10 days,7,10,10,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-OES,,stated in text,high
+Silver,Elemental,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Simple NFP,"Phytochemical, Vitamin, and Actives",5 days,5,5,20,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from text,medium
+Sodium,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Sodium Chloride,Elemental,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Sodium Copper Chlorophyllin (E-141),Preservatives and Additives,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Soy Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,,stated in text,high
+Spermidine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Spermidine Trihydrochloride,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Spirulina ID by HPTLC,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Staphylococcus Aureus,Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+"Stevia glycosides (Stevioside, Rebaudioside A, B, C M)","Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Strontium,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,20,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+"Sugar Alcohols (Inositol, Xylitol, and Erythritol)",Preservatives and Additives,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Sugar Panel,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Sulfate,Contaminants,7-10 days,7,10,25,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",Ion chromatography,,inferred from assay name,medium
+Sulfite,Preservatives and Additives,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Sulfite-Reducing Clostridia,Microbial,4 days,4,4,25,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Sulforaphane,"Phytochemical, Vitamin, and Actives",5-7 days,5,7,30,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Sulfur,Elemental,7-10 days,7,10,25,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Sulfur Dioxide,Contaminants,11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",Titration (incl. Karl Fischer),,inferred from assay name,medium
+Sunflower Lecithin ID,"Phytochemical, Vitamin, and Actives",10-12 days,10,12,10,likely outsourced,"max turnaround 12 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Taurine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Terpene Lactones (Ginkgo Biloba Extract),"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Thallium,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Thaumatin,Preservatives and Additives,11-13 day,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Theacrine (Teacrine),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Theobromine,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Thiourea,Contaminants,7-9 days,7,9,10,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+Threonic acid (threonate),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Thymoquinone,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Tongkat Ali Identity,"Phytochemical, Vitamin, and Actives",10-12 days,10,12,15,likely outsourced,"max turnaround 12 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Total Bacopa Glycosides,"Phytochemical, Vitamin, and Actives",12-15 days,12,15,25,likely outsourced,"max turnaround 15 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Total Curcuminoids,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Total Dissolved Solids (TDS),Stability,10-12 days,10,12,10,likely outsourced,"max turnaround 12 days (in house <= 7, outsourced >= 11)","Gravimetric (balance, oven, furnace)",,inferred from assay name,high
+Total Milk Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,,stated in text,high
+Total Plate Count,Microbial,4 days,4,4,10,likely in house,"max turnaround 4 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Total Polyphenols,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,25,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Total Probiotics Count,"Phytochemical, Vitamin, and Actives",7-9 days,7,9,25,uncertain,"max turnaround 9 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from text,medium
+"Total Vitamin A (Retinol, Retinyl Acetate, Retinyl Palmitate, Alpha Carotene, Beta-Carotene)","Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+"Total Vitamin K (Phylloquinone, MK-4, MK-7)","Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+TOTOX,Stability,5 business days,5,5,50,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",UV-Vis spectrophotometer,,stated in text,high
+Trace Minerals,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+TUDCA (Tauroursodeoxycholic Acid),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Turbidity,Stability,11-13 days,11,13,250,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",Turbidimeter,,inferred from assay name,high
+Turkesterone,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Turmeric ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,7,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Ubiquinol (Reduced Coenzyme Q10),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Unit Bag Weight,Stability,3 days,3,3,,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",Analytical balance,,inferred from assay name,high
+Uranium,Elemental,7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Urolithin A,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vanadium,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high
+Viscosity (Brookfield),Contaminants,13-15 days,13,15,100,likely outsourced,"max turnaround 15 days (in house <= 7, outsourced >= 11)",Viscometer,,inferred from assay name,high
+Vitamin A (Alpha Carotene),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin A (as Beta-Carotene),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin A (as Retinyl Acetate),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin A (as Retinyl Palmitate),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin B12 (Adenosylcobalamin),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Vitamin B12 (Cyanocobalamin),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Vitamin B12 (Hydroxycobalamin),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Vitamin B12 (Methylcobalamin),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+"Vitamin B12 (Total: Adenosylcobalamin, Hydroxycobalamin, Methylcobalamin, Cyanocobalamin)","Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Vitamin B1 (Benfotiamine),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Vitamin B1 (Thiamine),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin B2 (Riboflavin),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin B2 (Riboflavin 5-phosphate),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Vitamin B3 (as Niacinamide),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+"Vitamin B3 (Niacin, Nicotinic Acid)","Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin B5 (Pantothenic acid),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin B6 (as Pyridoxine HCl),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin B6 (Pyridoxal 5'-Phosphate),"Phytochemical, Vitamin, and Actives",5-7 days,5,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Vitamin B6 (Pyridoxamine),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin B7 (Biotin),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,HPLC,stated in text,medium
+Vitamin B9 (Folic acid),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Vitamin B9 (Folinic acid),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+"Vitamin B9 (L-methyltetrahydrofolic acid, 5MTHF)","Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin C (Ascorbic acid),"Phytochemical, Vitamin, and Actives",5-7 days,5,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin C (Calcium Ascorbate),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,15,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin D2 (ergocalciferol),"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",LC-MS/MS,,stated in text,high
+Vitamin D3 (Cholecalciferol),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin E (Alpha-Tocopherol),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin E (as Alpha-Tocopherol Acetate),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin E (as Alpha-Tocopherol Succinate),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin E (as Mixed Tocopherols),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+"Vitamin K1 (Phylloquinone, Phytonadione)","Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin K2 (MK-4 or Menaquinone 4),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Vitamin K2 (MK-7 or Menaquinone 7),"Phytochemical, Vitamin, and Actives",7 days,7,7,5,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Walnut & Pecan Allergen,Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",ELISA,UV-Vis spectrophotometer,stated in text,high
+Water Activity,Stability,3 days,3,3,20,likely in house,"max turnaround 3 days (in house <= 7, outsourced >= 11)",Water activity meter,,inferred from assay name,high
+Wheat (DNA),Allergen,2 days,2,2,5,likely in house,"max turnaround 2 days (in house <= 7, outsourced >= 11)",PCR / qPCR,,stated in text,high
+Withanolide glycosides (quantitative),"Phytochemical, Vitamin, and Actives",5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",HPLC,,stated in text,high
+Yeast & Mold,Microbial,5 days,5,5,10,likely in house,"max turnaround 5 days (in house <= 7, outsourced >= 11)",Microbial culture (plating and incubation),,inferred from assay name,medium
+Zeaxanthin,"Phytochemical, Vitamin, and Actives",7-10 days,7,10,5,uncertain,"max turnaround 10 days (in house <= 7, outsourced >= 11)",HPLC,UV-Vis spectrophotometer,stated in text,high
+Zembrin (Sceletium tortuosum) ID,"Phytochemical, Vitamin, and Actives",11-13 days,11,13,10,likely outsourced,"max turnaround 13 days (in house <= 7, outsourced >= 11)",HPTLC,,stated in text,high
+Zinc,Elemental,5-7 days,5,7,10,likely in house,"max turnaround 7 days (in house <= 7, outsourced >= 11)",ICP-MS,,stated in text,high

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Instrument Fleet Plan</title>
+  <desc id="desc">Banner showing a git registry of instrument records linked to log and data storage kept outside git.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2742"/>
+      <stop offset="1" stop-color="#1b5e8a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4fd1c5"/>
+      <stop offset="1" stop-color="#63b3ed"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="64" y="125" font-size="56" font-weight="700">Instrument Fleet Plan</text>
+    <text x="64" y="170" font-size="22" fill="#cbe4f5">A git registry of instruments, linked to logs kept elsewhere.</text>
+    <text x="64" y="202" font-size="22" fill="#cbe4f5">Faster, better-documented data from thousands of instruments.</text>
+    <rect x="64" y="226" width="160" height="5" rx="2.5" fill="url(#accent)"/>
+  </g>
+
+  <!-- Registry: stack of per-unit records -->
+  <g transform="translate(650 50)">
+    <g fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.5">
+      <rect x="0" y="0" width="130" height="44" rx="8"/>
+      <rect x="0" y="62" width="130" height="44" rx="8"/>
+      <rect x="0" y="124" width="130" height="44" rx="8"/>
+    </g>
+    <g font-family="Consolas, Menlo, monospace" font-size="14" fill="#ffffff" text-anchor="middle">
+      <text x="65" y="27">instrument.yaml</text>
+      <text x="65" y="89">instrument.yaml</text>
+      <text x="65" y="151">instrument.yaml</text>
+    </g>
+    <text x="65" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbe4f5" text-anchor="middle">registry (git)</text>
+  </g>
+
+  <!-- Link by type/serial key -->
+  <g transform="translate(800 0)">
+    <path d="M0 134H92" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 7"/>
+    <path d="M82 126L94 134L82 142" fill="none" stroke="#4fd1c5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="46" y="112" font-family="Consolas, Menlo, monospace" font-size="13" fill="#4fd1c5" text-anchor="middle">type/serial</text>
+  </g>
+
+  <!-- External storage -->
+  <g transform="translate(920 50)">
+    <path d="M0 24V138C0 156 44 168 100 168S200 156 200 138V24Z" fill="#ffffff" fill-opacity="0.95"/>
+    <ellipse cx="100" cy="24" rx="100" ry="24" fill="url(#accent)"/>
+    <g fill="none" stroke="#0f2742" stroke-opacity="0.25" stroke-width="2">
+      <path d="M0 70C0 88 44 100 100 100S200 88 200 70"/>
+      <path d="M0 116C0 134 44 146 100 146S200 134 200 116"/>
+    </g>
+    <text x="100" y="205" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#cbe4f5" text-anchor="middle">logs and data (outside git)</text>
+  </g>
+</svg>
