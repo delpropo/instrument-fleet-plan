@@ -1,0 +1,16 @@
+schema_version: 1
+key: FakePlate-200/000417
+type: FakePlate-200
+serial: "000417"
+nickname: bluejay
+status: active
+owner_team: assay-automation
+location:
+  site: Building 2
+  room: B216
+  bench: "2"
+software:
+  declared_version: "2.8.0"
+  declared_on: 2026-08-12
+hardware:
+  commissioned_on: 2026-04-10

@@ -1,0 +1,7 @@
+# Append-only example event history for this unit.
+- date: 2021-05-03
+  type: commissioning
+  summary: Installed and accepted.
+- date: 2025-10-31
+  type: decommissioning
+  summary: Retired from service and moved to equipment storage.

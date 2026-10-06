@@ -1,0 +1,7 @@
+# Append-only example event history for this unit.
+- date: 2025-12-08
+  type: commissioning
+  summary: Installed and accepted.
+- date: 2026-10-01
+  type: repair
+  summary: Removed from service for repeated flowcell temperature faults.

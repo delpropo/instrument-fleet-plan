@@ -1,0 +1,7 @@
+# Append-only example event history for this unit.
+- date: 2025-11-20
+  type: commissioning
+  summary: Installed and accepted.
+- date: 2026-03-02
+  type: move
+  summary: Moved from room B210 to B214.

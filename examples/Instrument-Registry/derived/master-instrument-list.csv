@@ -1,0 +1,5 @@
+key,type,serial,nickname,status,owner_team,site,room,bench,declared_version,commissioned_on
+FakePlate-200/000417,FakePlate-200,000417,bluejay,active,assay-automation,Building 2,B216,2,2.8.0,2026-04-10
+FakeScope-100/SCOPE-00502,FakeScope-100,SCOPE-00502,old-faithful,retired,imaging-core,Building 1,A012,storage,1.9.4,2021-05-03
+FakeSeq-9000/000417,FakeSeq-9000,000417,daffy,active,genomics-core,Building 2,B214,3,4.2.1,2025-11-20
+FakeSeq-9000/FS9K-00533,FakeSeq-9000,FS9K-00533,darkwing,repair,genomics-core,Building 3,C105,1,4.2.1,2025-12-08

@@ -1,0 +1,7 @@
+# Append-only example event history for this unit.
+- date: 2026-04-10
+  type: commissioning
+  summary: Installed and accepted.
+- date: 2026-08-12
+  type: software_update
+  summary: Updated to software version 2.8.0.

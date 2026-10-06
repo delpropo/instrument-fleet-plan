@@ -1,0 +1,16 @@
+schema_version: 1
+key: FakeScope-100/SCOPE-00502
+type: FakeScope-100
+serial: SCOPE-00502
+nickname: old-faithful
+status: retired
+owner_team: imaging-core
+location:
+  site: Building 1
+  room: A012
+  bench: storage
+software:
+  declared_version: "1.9.4"
+  declared_on: 2025-03-18
+hardware:
+  commissioned_on: 2021-05-03

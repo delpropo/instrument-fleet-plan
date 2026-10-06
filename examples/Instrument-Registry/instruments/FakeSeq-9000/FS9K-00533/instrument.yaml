@@ -1,0 +1,16 @@
+schema_version: 1
+key: FakeSeq-9000/FS9K-00533
+type: FakeSeq-9000
+serial: FS9K-00533
+nickname: darkwing
+status: repair
+owner_team: genomics-core
+location:
+  site: Building 3
+  room: C105
+  bench: "1"
+software:
+  declared_version: "4.2.1"
+  declared_on: 2026-06-14
+hardware:
+  commissioned_on: 2025-12-08

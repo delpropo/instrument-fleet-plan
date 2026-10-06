@@ -1,0 +1,16 @@
+schema_version: 1
+key: FakeSeq-9000/000417
+type: FakeSeq-9000
+serial: "000417"
+nickname: daffy
+status: active
+owner_team: genomics-core
+location:
+  site: Building 2
+  room: B214
+  bench: "3"
+software:
+  declared_version: "4.2.1"
+  declared_on: 2026-06-14
+hardware:
+  commissioned_on: 2025-11-20
